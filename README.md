@@ -7,7 +7,6 @@
 
 ![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalandriansah&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalandriansah&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisalandriansah&theme=tokyonight)](https://git.io/streak-stats)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
