@@ -1,10 +1,10 @@
-# 🚀 Halo! Saya **Faisal Andriansah**
+# 🚀 Halo! Saya **Achmad Faisal Andriansah**
 
 <div align="center">
   
   ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Frontend+%7C+Backend+Developer;Membangun+Pengalaman+Digital;Selalu+Belajar%2C+Selalu+Berkembang;Kode+%2B+Kopi+%3D+Keajaiban+%E2%9C%A8)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Membangun+Pengalaman+Digital;Selalu+Belajar%2C+Selalu+Berkembang;Kode+%2B+Kopi+%3D+Keajaiban+%E2%9C%A8)
   
   
 </div>
