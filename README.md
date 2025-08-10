@@ -6,6 +6,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Frontend+%7C+Backend+Developer;Membangun+Pengalaman+Digital;Selalu+Belajar%2C+Selalu+Berkembang;Kode+%2B+Kopi+%3D+Keajaiban+%E2%9C%A8)
   
+  
 </div>
 
 ---
