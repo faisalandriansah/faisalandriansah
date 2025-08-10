@@ -75,112 +75,6 @@
   
 </div>
 
----
-
-## 🎯 **Roadmap Belajar & Pengembangan**
-
-<div align="center">
-
-### 🔥 **Sedang Menguasai**
-
-```javascript
-const sedangBelajar = {
-  frontend: {
-    framework: "React.js",
-    mobile: "Flutter",
-    styling: "CSS Lanjutan & Tailwind",
-    konsep: ["State Management", "Arsitektur Komponen", "Responsive Design"]
-  },
-  backend: {
-    framework: "Laravel",
-    database: "Optimisasi MySQL",
-    konsep: ["RESTful APIs", "Authentication", "Database Design"]
-  },
-  tujuan: [
-    "🎨 Membangun UI yang pixel-perfect",
-    "⚡ Membuat API yang super cepat", 
-    "📱 Mengembangkan aplikasi cross-platform",
-    "🚀 Menguasai full-stack development"
-  ]
-};
-```
-
-### 📚 **Progress Pembelajaran**
-
-| Teknologi | Progress | Area Focus |
-|-----------|----------|------------|
-| **React** | ![75%](https://progress-bar.dev/75?color=61dafb) | Hooks, Context, Performance |
-| **Flutter** | ![60%](https://progress-bar.dev/60?color=02569b) | Widgets, State Management |
-| **Laravel** | ![85%](https://progress-bar.dev/85?color=ff2d20) | Fitur Lanjutan, Testing |
-| **JavaScript** | ![80%](https://progress-bar.dev/80?color=f7df1e) | ES6+, Async Programming |
-
-</div>
-
----
-
-## 🏗️ **Apa yang Sedang Saya Bangun**
-
-<div align="center">
-
-```php
-<?php
-
-class PassionDeveloper 
-{
-    private $projects = [
-        '📚 Platform E-Learning' => [
-            'frontend' => 'React + UI Interaktif',
-            'backend' => 'Laravel + RESTful API',
-            'misi' => 'Membuat pendidikan accessible untuk semua'
-        ],
-        
-        '📖 Sistem Manajemen Perpustakaan' => [
-            'frontend' => 'Flutter + Mobile UI yang Cantik', 
-            'backend' => 'Laravel + Database yang Robust',
-            'misi' => 'Digitalisasi manajemen pengetahuan'
-        ]
-    ];
-    
-    public function getRutinanHarian(): array 
-    {
-        return [
-            '☕ Kopi',
-            '💻 Coding', 
-            '📚 Belajar',
-            '🔁 Repeat'
-        ];
-    }
-}
-```
-
-</div>
-
----
-
-## 🌟 **Filosofi Pengembangan**
-
-<div align="center">
-
-### 💡 **Prinsip Coding Saya**
-
-```bash
-# Frontend First
-$ echo "User experience adalah segalanya"
-> Interface cantik yang disukai user untuk berinteraksi
-
-# Backend Kuat  
-$ echo "Fondasi solid, masa depan scalable"
-> API robust yang menggerakkan aplikasi luar biasa
-
-# Selalu Belajar
-$ echo "Stay curious, stay growing"
-> Teknologi berkembang, begitu juga saya
-```
-
-</div>
-
----
-
 ## 📊 **Grafik Aktivitas**
 
 <div align="center">
@@ -208,10 +102,11 @@ $ echo "Stay curious, stay growing"
 
 ### 🎭 **Fakta Menarik Developer**
 
-*🎯 Saya mengubah mockup desain menjadi aplikasi yang hidup dan bernapas*  
-*⚡ Saya bicara Frontend dan Backend dengan lancar*  
-*🚀 Sedang dalam misi menjembatani UI cantik dengan API yang powerful*  
-*☕ Ditenagai oleh kopi dan rasa ingin tahu*
+*🚀 Developer yang Asik*
+*💻 Mengubah ide jadi website keren*
+*📱 Frontend cantik, backend solid*
+*☕ Powered by coffee & good vibes*
+*🎯 Passion: Bikin user happy*
 
 ---
 
